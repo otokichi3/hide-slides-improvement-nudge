@@ -1,0 +1,4 @@
+# 調査用に保存した Google スライドの HTML（スライドの内容を含むため公開しない）
+index.html
+*.swp
+.DS_Store

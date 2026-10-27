@@ -1,0 +1,6 @@
+/* 「このスライドの見栄えを良くする」の Gemini ナッジ */
+#canvas-nudge-surface-soy-container,
+#canvas-nudge-surface,
+.appsSketchyGenerativeaiNudgesCanvasNudgeSurfaceSoyContainer {
+  display: none !important;
+}

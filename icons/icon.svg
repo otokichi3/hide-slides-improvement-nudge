@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- バナナ（三日月形） -->
+  <path d="M26 30
+           C 14 64, 40 112, 98 104
+           C 110 102, 112 92, 102 90
+           C 62 92, 40 66, 40 30
+           Z"
+        fill="#FFD43B" stroke="#3A2A00" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M30 46 C 32 76, 56 98, 92 98" fill="none" stroke="#F2B600" stroke-width="6" stroke-linecap="round"/>
+  <path d="M26 30 L 25 16 L 39 16 L 40 30" fill="#7A5A1E" stroke="#3A2A00" stroke-width="6" stroke-linejoin="round"/>
+  <!-- バツ -->
+  <circle cx="92" cy="92" r="32" fill="#E53935" stroke="#FFFFFF" stroke-width="6"/>
+  <path d="M79 79 L105 105 M105 79 L79 105" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+</svg>

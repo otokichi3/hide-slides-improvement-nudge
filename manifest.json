@@ -3,10 +3,20 @@
   "name": "Hide Slides Improvement Nudge",
   "version": "1.0.0",
   "description": "Google スライド下部の「このスライドの見栄えを良くする」を非表示にする",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
   "content_scripts": [
     {
-      "matches": ["https://docs.google.com/presentation/*"],
-      "css": ["hide.css"],
+      "matches": [
+        "https://docs.google.com/presentation/*"
+      ],
+      "css": [
+        "hide.css"
+      ],
       "run_at": "document_start",
       "all_frames": true
     }

@@ -48,6 +48,7 @@ Google が要素の ID やクラス名を変更すると、ボタンがまた表
 | --- | --- |
 | `manifest.json` | 拡張機能の設定（Manifest V3） |
 | `hide.css` | ボタンを非表示にする CSS |
+| `icons/` | 拡張機能のアイコン（`icon.svg` が元データ、PNG は `rsvg-convert` で書き出し） |
 | `docs/nudge.png` | README 用のスクリーンショット |
 
 ## ライセンス
